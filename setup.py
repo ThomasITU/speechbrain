@@ -4,7 +4,7 @@ import sys
 import site
 import setuptools
 from distutils.core import setup
-
+print("Hello World!")
 
 # Editable install in user site directory can be allowed with this hack:
 # https://github.com/pypa/pip/issues/7953.
